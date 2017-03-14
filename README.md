@@ -26,14 +26,14 @@ Sakya 操作手冊
 *	[橫幅](#banners)
 *	[新聞](#news)
 *	[知識](#knowledge)
-	
+
 --------------------------------------
-      
+
 <h2 id="account">帳戶</h2>
 
 <h3 id='login'> 登入 </h3>
 
-<img src='.\001.png' width="70%">
+<img src='.\images\001.png' width="70%">
 
 登入網址：[sakaya.oddesign.expert/admins/sign_in](http://sakaya.oddesign.expert/admins/sign_in)
 
@@ -41,11 +41,11 @@ Sakya 操作手冊
 
 <h3 id='logout'> 登出 與 變更密碼 </h3>
 
-<img src='.\002.png' width="70%">
+<img src='.\images\002.png' width="70%">
 
 登入後點擊右上角的admin按鈕即可顯示變更密碼與登出按鈕
 
-<img src='.\003.png' width="70%">
+<img src='.\images\003.png' width="70%">
 
 在輸入新密碼後，請在最下方欄位輸入當前密碼並按更新以完成操作
 
@@ -53,7 +53,7 @@ Sakya 操作手冊
 
 <h3 id='admin-log'>操作記錄</h3>
 
-<img src='.\004.png' width="100%">
+<img src='.\images\004.png' width="100%">
 
 在首頁或左方資訊頁籤進入資訊頁面，點擊下方admin Logger視窗右上角即可打開操作記錄
 
@@ -61,7 +61,7 @@ Sakya 操作手冊
 
 <h2 id="order-management">訂單管理</h2>
 
-<img src='.\005.png' width="70%">
+<img src='.\images\005.png' width="70%">
 
 訂單管理在左方頁籤『訂單』中，點擊打開分類列表
 
@@ -78,7 +78,7 @@ Sakya 操作手冊
 
 任一去快速搜尋符合條件的訂單
 
-<img src='.\006.png' width="70%">
+<img src='.\images\006.png' width="70%">
 
 ---
 
@@ -87,7 +87,7 @@ Sakya 操作手冊
 第二是進階搜尋：
 訂單分類列表中的第一項『訂單管理』，點擊後即有訂單進階搜尋操作視窗
 
-<img src='.\007.png' width="100%">
+<img src='.\images\007.png' width="100%">
 
 進階搜尋可定義多重搜尋條件，只有符合所有條件的訂單才會出現，
 可搜尋條件分別為：
@@ -109,23 +109,23 @@ Sakya 操作手冊
 
 在訂單頁籤內的訂單管理頁面，點擊搜尋按鈕旁的下載ＥＸＣＥＬ可匯出以目前搜尋結果的訂單列表與詳細資訊。
 
-<img src='.\008.png' width="100%">
+<img src='.\images\008.png' width="100%">
 
 ---
 
 <h3 id='order-opration'>訂單操作</h3>
 
-<img src='.\009.png' width="100%">
+<img src='.\images\009.png' width="100%">
 
 變更訂單狀態的按鈕，顯示在訂單列表中最右邊的欄位中，按下即可更新訂單狀態。
 
-<img src='.\011.png' width="100%">
+<img src='.\images\011.png' width="100%">
 
 點擊查看詳細訂單內容按鈕後，在訂單詳細頁面裡的右上方也會出現訂單狀態轉換按鈕!
 
 ！！注意，訂單狀態變更後無法回復先前狀態，操作前請注意說明提示。
 
-<img src='.\010.png' width="100%">
+<img src='.\images\010.png' width="100%">
 
 ---
 
@@ -136,52 +136,52 @@ Sakya 操作手冊
 * 訂單成立後 狀態為 未付款
 	*	當訂單成立但未付款前，一般使用者與管理員皆可自行取消訂單
 
-		<img src='.\013.png' width="50%">
+		<img src='.\images\013.png' width="50%">
 
 	--
-	
+
 	*	管理員可將未付款訂單轉換成已付款
-	
-		<img src='.\012.png' width="50%">
+
+		<img src='.\images\012.png' width="50%">
 
 	--
-	
+
 * 訂單付款後 狀態為 待發貨
 	*	管理員可將待發貨訂單轉換成已發貨
 
-		<img src='.\014.png' width="50%">
+		<img src='.\images\014.png' width="50%">
 
 	--
 
 * 訂單發貨後 狀態為 已發貨
 	*	管理員可將已發貨訂單轉換成已到貨
 
-		<img src='.\015.png' width="50%">
+		<img src='.\images\015.png' width="50%">
 
 	--
-	
+
 * 訂單到貨後 狀態為 已到貨
 	*	當訂單已到貨後，一般使用者可申請退貨或是申請換貨
 
-		<img src='.\016.png' width="50%">
+		<img src='.\images\016.png' width="50%">
 
 	--
-	
+
 	*	當訂單已到貨後，管理員可手動轉換訂單狀態至申請退貨或是申請換貨
-	
-		<img src='.\017.png' width="50%">
+
+		<img src='.\images\017.png' width="50%">
 	--
 
 * 訂單 狀態為 申請退貨或是申請換貨
 	*	當訂單已到貨後，管理員可手動轉換訂單狀態至已退貨或是已換貨
-	
-		<img src='.\018.png' width="50%">
+
+		<img src='.\images\018.png' width="50%">
 	--
-	
+
 	黃色標籤為等待管理員處理的提示顏色
-	
-	<img src='.\019.png' width="50%">
-	
+
+	<img src='.\images\019.png' width="50%">
+
 ---
 
 
@@ -189,7 +189,7 @@ Sakya 操作手冊
 
 <h3 id='sake-management'>酒品管理</h3>
 
-<img src='.\020.png' width="100%">
+<img src='.\images\020.png' width="100%">
 
 點擊左側酒品頁籤即可打開選單，點選第一項酒品管理即可進入酒品管理介面
 
@@ -215,21 +215,21 @@ Sakya 操作手冊
 * 選擇 味
 * 選擇 酒體
 
-<img src='.\021.png' width="100%">
+<img src='.\images\021.png' width="100%">
 
-<img src='.\022.png' width="100%">
+<img src='.\images\022.png' width="100%">
 
 ！！！注意 新增酒品之前請先新增所屬酒造，酒品分類可不選，但就不會出現在酒品分類的頁面中
 
-<img src='.\023.png' width="100%">
+<img src='.\images\023.png' width="100%">
 
 ---
 
 <h3 id='sake-edit'>編輯、刪除酒品</h3>
 
-<img src='.\024.png' width="100%">
+<img src='.\images\024.png' width="100%">
 
-酒品 -> 酒品管理 
+酒品 -> 酒品管理
 
 點擊列表右側對應按鈕即可編輯與刪除酒品
 
@@ -239,11 +239,11 @@ Sakya 操作手冊
 
 <h3 id='sake-variant'>新增、編輯、刪除酒品規格</h3>
 
-<img src='.\025.png' width="50%">
+<img src='.\images\025.png' width="50%">
 
 在酒品管理介面列表中先找到要新增或規格的酒品，點擊右方操作按鈕的『新增酒品規格』
 
-<img src='.\026.png' width="70%">
+<img src='.\images\026.png' width="70%">
 
 在跳出的對話框依序輸入
 
@@ -263,11 +263,11 @@ Sakya 操作手冊
 
 <h3 id='sake-variant-edit'>編輯、刪除酒品規格</h3>
 
-<img src='.\027.png' width="100%">
+<img src='.\images\027.png' width="100%">
 
 在酒品管理介面列表中先找到要編輯或刪除的規格的酒品，點擊右方操作按鈕的『編輯』or 『刪除』
 
-<img src='.\028.png' width="100%">
+<img src='.\images\028.png' width="100%">
 
 不顯示於網站的商品規格將會如上圖分開表示
 
@@ -275,7 +275,7 @@ Sakya 操作手冊
 
 <h3 id='sake-institue'>酒造管理</h3>
 
-<img src='.\029.png' width="100%">
+<img src='.\images\029.png' width="100%">
 
 點擊酒品頁籤內的酒造管理選單即可進入酒造管理介面
 新增酒造請點擊畫面右上角的『新增酒造』按鈕
@@ -288,7 +288,7 @@ Sakya 操作手冊
 
 更新與編輯請選擇列表右方的對應按鈕
 
-<img src='.\030.png' width="100%">
+<img src='.\images\030.png' width="100%">
 
 **！！注意 刪除酒造會讓全部所屬的酒類商品一併刪除，酒造刪除後無法回覆！**
 
@@ -296,7 +296,7 @@ Sakya 操作手冊
 
 <h3 id='sake-category'>酒品分類管理</h3>
 
-<img src='.\031.png' width="100%">
+<img src='.\images\031.png' width="100%">
 
 * 點擊酒品頁籤內的酒品分類管理選單即可進入酒品分類管理介面
 新增酒品請點擊畫面右上角的『新增酒品分類』按鈕
@@ -305,7 +305,7 @@ Sakya 操作手冊
 
 * 更新與刪除特定分類請選擇列表右方的對應按鈕
 
-<img src='.\032.png' width="100%">
+<img src='.\images\032.png' width="100%">
 
 ---
 
@@ -313,7 +313,7 @@ Sakya 操作手冊
 
 <h3 id='normal-management'>一般商品管理</h3>
 
-<img src='.\033.png' width="100%">
+<img src='.\images\033.png' width="100%">
 
 * 點擊一般商品頁籤內的一般商品管理選單即可進入一般商品管理介面
 新增一般商品請點擊畫面右上角的『新增一般商品』按鈕
@@ -327,9 +327,9 @@ Sakya 操作手冊
 * 商品敘述（編輯器）
 * 商品介紹（編輯器）
 
-<img src='.\034.png' width="100%">
+<img src='.\images\034.png' width="100%">
 
-<img src='.\036.png' width="100%">
+<img src='.\images\036.png' width="100%">
 
 ---
 
@@ -337,13 +337,13 @@ Sakya 操作手冊
 
 請參考[酒品規格管理](#sake-variant)
 
-<img src='.\037.png' width="100%">
+<img src='.\images\037.png' width="100%">
 
 ---
 
 <h3 id='normal-category'>一般商品分類</h3>
 
-<img src='.\035.png' width="50%">
+<img src='.\images\035.png' width="50%">
 
 一般商品分類共有三大類
 *美妝、食物、容器*
@@ -353,23 +353,23 @@ Sakya 操作手冊
 
 <h2 id="users">用戶</h2>
 
-<img src='.\038.png' width="100%">
+<img src='.\images\038.png' width="100%">
 
 點擊左側用戶頁籤即可進入用戶列表，列表右側會員詳細資料按鈕可進入查看用戶資訊
 
-<img src='.\039.png' width="100%">
+<img src='.\images\039.png' width="100%">
 
 ---
 
 <h2 id="users">橫幅</h2>
 
-<img src='.\040.png' width="100%">
+<img src='.\images\040.png' width="100%">
 
 點擊左側橫幅頁籤即可進入橫幅管理介面，右上方按鈕可新增橫幅，列表右側為橫幅個別更新與刪除按鈕
 
 **當橫幅在同一位置出現超過一個，版面會轉成SlideShow**
 
-<img src='.\041.png' width="70%">
+<img src='.\images\041.png' width="70%">
 
 橫幅新增、修改視窗內請依序填入：
 
@@ -381,28 +381,28 @@ Sakya 操作手冊
 	* 酒類商品
 	* 新聞首頁
 	* 知識首頁
-	
-	<img src='.\042.png' width="70%">
-	
+
+	<img src='.\images\042.png' width="70%">
+
 	『位置』下拉選匡可選擇想要橫幅出現的頁面
-	
+
 * 標題一
 * 標題二
 * 連結網址
 
-<img src='.\043.png' width="100%">
+<img src='.\images\043.png' width="100%">
 
 **連結網址留空則不會出現『了解更多』超連結按鈕**
 
-<img src='.\044.png' width="50%">
+<img src='.\images\044.png' width="50%">
 
-<img src='.\045.png' width="50%">
+<img src='.\images\045.png' width="50%">
 
 ---
 
 <h2 id="news">新聞</h2>
 
-<img src='.\046.png' width="100%">
+<img src='.\images\046.png' width="100%">
 
 點擊左側新聞頁籤即可進入橫幅管理介面，右上方按鈕可新增新聞，列表右側為新聞個別更新與刪除按鈕
 
@@ -412,15 +412,15 @@ Sakya 操作手冊
 * 上傳 文章封面
 * 內容（編輯器）
 
-<img src='.\047.png' width="70%">
+<img src='.\images\047.png' width="70%">
 
-<img src='.\048.png' width="100%">
+<img src='.\images\048.png' width="100%">
 
 ---
 
 <h2 id="knowledge">知識</h2>
 
-<img src='.\050.png' width="100%">
+<img src='.\images\050.png' width="100%">
 
 點擊左側知識頁籤即可進入橫幅管理介面，右上方按鈕可新增知識，列表右側為知識個別詳細內容、更新與刪除按鈕
 
@@ -432,16 +432,16 @@ Sakya 操作手冊
 	* 清酒酒造
 	* 糯米
 	* 酒藏故事
-	
-	<img src='.\051.png' width="50%">
-	
+
+	<img src='.\images\051.png' width="50%">
+
 	『種類』下拉選框選擇知識種類
-	
+
 * 內容（編輯器）
 
-<img src='.\053.png' width="100%">
+<img src='.\images\053.png' width="100%">
 
-<img src='.\049.png' width="100%">
+<img src='.\images\049.png' width="100%">
 
-<img src='.\052.png' width="100%">
+<img src='.\images\052.png' width="100%">
 
