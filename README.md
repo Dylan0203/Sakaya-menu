@@ -15,6 +15,7 @@ Sakya 操作手冊
 *	[酒品](#sake)
 	* [酒品管理](#sake-management)
 		* [新增酒品](#sake-new)
+		* [適飲溫度](#sake-drink-temp)
 		* [編輯、刪除酒品](#sake-edit)
 		* [新增酒品規格](#sake-variant)
 		* [編輯、刪除酒品規格](#sake-variant-edit)
@@ -237,6 +238,24 @@ Sakya 操作手冊
 ！！！注意 新增酒品之前請先新增所屬酒造，酒品分類可不選，但就不會出現在酒品分類的頁面中
 
 <img src='.\images\023.png' width="100%">
+
+---
+
+<h3 id='sake-drink-temp'>適飲溫度</h3>
+
+<img src='.\images\057.png' width="100%">
+
+在填寫溫度時，
+
+適飲溫度(一)會產生藍色的適飲溫度範圍
+
+適飲溫度(二)會產生橘紅色的適飲溫度範圍
+
+可以只填一種，請依照溫度範圍斟酌使用。
+
+
+<img src='.\images\056.png' width="100%">
+
 
 ---
 
