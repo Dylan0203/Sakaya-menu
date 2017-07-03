@@ -11,6 +11,7 @@ Sakya 操作手冊
 	* [訂單匯出](#order-export)
 	* [訂單操作](#order-opration)
  	* [訂單狀態說明](#order-status)
+ 	* [訂單刷退](#order-refund)
 *	[酒品](#sake)
 	* [酒品管理](#sake-management)
 		* [新增酒品](#sake-new)
@@ -35,7 +36,7 @@ Sakya 操作手冊
 
 <img src='.\images\001.png' width="70%">
 
-登入網址：[sakaya.oddesign.expert/admins/sign_in](http://sakaya.oddesign.expert/admins/sign_in)
+登入網址：[https://www.sakaya.life/admins/sign_in](https://www.sakaya.life/admins/sign_in)
 
 ---
 
@@ -183,7 +184,21 @@ Sakya 操作手冊
 	<img src='.\images\019.png' width="50%">
 
 ---
+<h3 id='order-refund'>訂單刷退</h3>
 
+<img src='.\images\054.png' width="50%">
+
+當訂單為信用卡付款時，在訂定單的詳細頁面裡就會出現“執行信用卡退款”的紅色按鈕，
+
+- 如未請款，系統會取消授權
+
+- 如已請款，系統會執行退款流程
+
+執行完畢後，原本退款按鈕的位置則會顯示退款的結果如下圖:
+
+<img src='.\images\055.png' width="50%">
+
+---
 
 <h2 id="sake">酒品</h2>
 
