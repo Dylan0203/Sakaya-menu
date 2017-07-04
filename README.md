@@ -28,6 +28,7 @@ Sakya 操作手冊
 *	[橫幅](#banners)
 *	[新聞](#news)
 *	[知識](#knowledge)
+*	[購物須知](#shopping-terms)
 
 --------------------------------------
 
@@ -479,3 +480,12 @@ Sakya 操作手冊
 
 <img src='.\images\052.png' width="100%">
 
+---
+
+<h2 id="shopping-terms">購物須知</h2>
+
+<img src='.\images\058.png' width="100%">
+
+點擊左側購物須知設定即可進入編輯器，更新完畢請務必至網站前端觀看排版效果，基於安全因素編輯器產生的部分效果可能會被自動過濾。
+
+<img src='.\images\059.png' width="100%">
