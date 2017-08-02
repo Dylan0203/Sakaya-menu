@@ -25,10 +25,16 @@ Sakya 操作手冊
 	* [一般商品管理](#normal-management)
 	* [一般商品規格管理](#normal-variant)
 	* [一般商品分類](#normal-category)
+*	[加購商品](#add-on-product)
+	* [加購商品管理](#add-on-product-management)
+*	[用戶](#users)
+	* [手動付款](#mamual-payment)
 *	[橫幅](#banners)
 *	[新聞](#news)
 *	[知識](#knowledge)
 *	[購物須知](#shopping-terms)
+
+[ＰＤＦ下載連結](https://github.com/Dylan0203/Sakaya-menu/raw/master/README.pdf)
 
 --------------------------------------
 
@@ -36,7 +42,7 @@ Sakya 操作手冊
 
 <h3 id='login'> 登入 </h3>
 
-<img src='.\images\001.png' width="70%">
+<img src='.\images\001.png' width="50%">
 
 登入網址：[https://www.sakaya.life/admins/sign_in](https://www.sakaya.life/admins/sign_in)
 
@@ -44,11 +50,11 @@ Sakya 操作手冊
 
 <h3 id='logout'> 登出 與 變更密碼 </h3>
 
-<img src='.\images\002.png' width="70%">
+<img src='.\images\002.png' width="50%">
 
 登入後點擊右上角的admin按鈕即可顯示變更密碼與登出按鈕
 
-<img src='.\images\003.png' width="70%">
+<img src='.\images\003.png' width="50%">
 
 在輸入新密碼後，請在最下方欄位輸入當前密碼並按更新以完成操作
 
@@ -81,7 +87,7 @@ Sakya 操作手冊
 
 任一去快速搜尋符合條件的訂單
 
-<img src='.\images\006.png' width="70%">
+<img src='.\images\006.png' width="50%">
 
 ---
 
@@ -104,6 +110,7 @@ Sakya 操作手冊
 * 商品規格編號 包含
 * 酒品規格編號 包含
 
+-
 !! 注意 !! 酒類商品與一般商品不會出現在同一訂單內，同時輸入酒類規格編號與一般商品規格編號將不會得到任何結果。
 
 ---
@@ -126,7 +133,9 @@ Sakya 操作手冊
 
 點擊查看詳細訂單內容按鈕後，在訂單詳細頁面裡的右上方也會出現訂單狀態轉換按鈕!
 
+
 ！！注意，訂單狀態變更後無法回復先前狀態，操作前請注意說明提示。
+-
 
 <img src='.\images\010.png' width="100%">
 
@@ -386,6 +395,34 @@ Sakya 操作手冊
 
 ---
 
+<h2 id="add-on-product">加購商品</h2>
+
+<h3 id='add-on-product-management'>加購商品管理</h3>
+
+<img src='.\images\060.png' width="100%">
+
+左方加購商品頁籤內有分
+
+- 酒類加購
+- 一般加購
+
+兩種加購品個別只可以有三個商品同時上架
+
+<img src='.\images\061.png' width="50%">
+
+兩種加購品可分別設定顯示給不同身份的使用者購買共三種
+
+- 『ＶＩＰ』，只有ＶＩＰ可加購
+- 『一般會員』，只有一般會員可加購
+- 『共通』，ＶＩＰ與一般會員都可加購
+
+<img src='.\images\062.png' width="100%">
+
+-
+*注意，加購品新增後預設為下架狀態，請按上架按鈕開放加購*
+
+---
+
 <h2 id="users">用戶</h2>
 
 <img src='.\images\038.png' width="100%">
@@ -394,9 +431,41 @@ Sakya 操作手冊
 
 <img src='.\images\039.png' width="100%">
 
+<h3 id='manual-payments'>手動付款</h3>
+
+<img src='.\images\063.png' width="100%">
+
+點擊消費紀錄按鈕即可進入該用戶手動付款頁面
+
+其中畫面最上方會顯示該用戶 *一年內* 的消費總金額
+
+其次為手動付款輸入框
+
+新增手動付款記錄請依照需求填入相關資訊
+
+- 發票/訂單號碼
+- 金額
+- 其他/備註
+
+
+再來兩份列表記錄為：
+
+- 信用卡付款紀錄
+- 手動付款紀錄
+
+兩份列表顯示 *所有* 歷史消費金額的紀錄，列表開頭顯示數字為金額加總
+
+-
+
+*手動付款無法刪除，如有金額輸入錯誤，請再新增一筆負數金額抵銷錯誤，或請聯絡網站管理員協助。*
+
+*如有誤植金額造成用戶成為ＶＩＰ，請聯絡網站管理員重設該用戶ＶＩＰ到期時間*
+
+*信用卡退款並不會自動扣除付款總金額，請使用手動付款將金額抵銷，如須重設ＶＩＰ到期時間，請聯絡管理員*
+
 ---
 
-<h2 id="users">橫幅</h2>
+<h2 id="banners">橫幅</h2>
 
 <img src='.\images\040.png' width="100%">
 
