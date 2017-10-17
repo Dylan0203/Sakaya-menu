@@ -28,7 +28,7 @@ Sakya 操作手冊
 *	[加購商品](#add-on-product)
 	* [加購商品管理](#add-on-product-management)
 *	[用戶](#users)
-	* [手動付款](#mamual-payment)
+	* [手動付款](#manual-payments)
 *	[橫幅](#banners)
 *	[新聞](#news)
 *	[知識](#knowledge)
